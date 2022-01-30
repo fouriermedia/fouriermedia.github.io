@@ -1,7 +1,7 @@
 ### Credits:
 
-| Fourier Media Article Names                          | References              |   
-| ---------------------------------------------------- |:-----------------------:|
+| Fourier Media Article Names                          | Article Thumbnail Photo References (on website) |   
+| ---------------------------------------------------- |:-----------------------------------------------:|
 | Effectivity of Vaccines: A Statistical Point of View | Photo by <a href="https://unsplash.com/@schluditschutm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Daniel Schludi</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a> |
 | Efektivitas Vaksin dari Sudut Pandang Statistika     | Photo by <a href="https://unsplash.com/@towfiqu999999?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Towfiqu barbhuiya</a> on <a href="https://unsplash.com/s/photos/vaccine?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a> |
 | Mathematics and Statistics in Esports Betting        | Photo by <a href="https://unsplash.com/@diegosmarines?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Diego Marín</a> on <a href="https://unsplash.com/s/photos/video-gaming?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a> |
